@@ -26,5 +26,6 @@
 ### Week16
 ---
 # 作業連結區
+*HW1(https://youtu.be/MCXOM_wMjQM)
 ---
 # 專題連結區
