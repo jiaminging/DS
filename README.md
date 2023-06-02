@@ -27,5 +27,6 @@
 ---
 # 作業連結區
 * ### [HW1](https://youtu.be/MCXOM_wMjQM)
+* ### [HW2](https://youtu.be/aIW7mHnHkTc)
 ---
 # 專題連結區
